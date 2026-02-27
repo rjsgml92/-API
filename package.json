@@ -1,0 +1,8 @@
+{
+  "name": "api-chatfactory",
+  "version": "1.0.0",
+  "main": "api/kakao.js",
+  "dependencies": {
+    "@supabase/supabase-js": "latest"
+  }
+}
